@@ -1,5 +1,5 @@
 # Data-Analysis-Projects
-Data analysis projects using datasets present in Kaggle
+Data analysis projects using datasets present in Kaggle using Python and PowerBI
 
 This repository is for all the Data Analytics projects.
 
