@@ -8,3 +8,4 @@ This repository is for all the Data Analytics projects.
 3. Suicide Rate Analysis
 4. Data Analysis Survey Breakdown
 5. Netflix Titles Data Analysis
+6. Loan Approval EDA
